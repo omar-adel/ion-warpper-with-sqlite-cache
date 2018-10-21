@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="highTemp">High Temperature</string>
+    <string name="lowTemp">Low Temperature</string>
+    <string name="no_connection">no connection</string>
+    <string name="error">error happened , try again</string>
+
+</resources>
